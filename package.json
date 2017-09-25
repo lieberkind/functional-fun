@@ -1,0 +1,22 @@
+{
+	"name": "functional-fun",
+	"version": "1.0.0",
+	"description": "",
+	"main": "curry.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lieberkind/functional-fun.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lieberkind/functional-fun/issues"
+	},
+	"homepage": "https://github.com/lieberkind/functional-fun#readme",
+	"devDependencies": {
+		"jest": "^21.1.0"
+	}
+}
